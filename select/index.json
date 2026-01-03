@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "Bring the Beat Back",
+  "base_artist": "SPYAIR",
+  "createdAt": "2026-01-03T12:46:05.716760Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Bring the Beat Back",
+      "artist": "DJ Bobo",
+      "has_synced": false,
+      "path": "select/01_Bring_the_Beat_Back_DJ_Bobo.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Bring the Beat Back",
+      "artist": "Ida Corr",
+      "has_synced": false,
+      "path": "select/02_Bring_the_Beat_Back_Ida_Corr.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Bring the Beat Back",
+      "artist": "DJ BoBo",
+      "has_synced": false,
+      "path": "select/03_Bring_the_Beat_Back_DJ_BoBo.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Bring The Beat Back",
+      "artist": "Sunnery James & Ryan Marciano",
+      "has_synced": false,
+      "path": "select/04_Bring_The_Beat_Back_Sunnery_James_&_Ryan_Marciano.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Bring the Beat Back",
+      "artist": "SPYAIR",
+      "has_synced": false,
+      "path": "select/pl_01_Bring_the_Beat_Back_SPYAIR.txt"
+    }
+  ]
+}
